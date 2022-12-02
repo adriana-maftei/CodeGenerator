@@ -1,0 +1,13 @@
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe.config
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.AssemblyReference.cache
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Form1.resources
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Properties.Resources.resources
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.GenerateResource.cache
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.CopyComplete
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe
+C:\Users\mafte\source\repos\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.pdb
