@@ -2,3 +2,6 @@ This project is a Code Generator - useful for products selling - made with Visua
 
 - generating BARECODE and QR CODE 
 - handling EXCEPTIONS
+
+![cg1](https://user-images.githubusercontent.com/115250887/206471061-a59242fc-9da6-4ece-ac60-a0d6ff1fbffb.PNG)
+![cg2](https://user-images.githubusercontent.com/115250887/206471082-1186be95-af64-4e12-a95e-e15f2ba958cc.PNG)
